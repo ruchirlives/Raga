@@ -4,7 +4,7 @@ import time
 import threading
 
 
-OUTPORT = mido.open_output("loopMIDI Port 3")
+OUTPORT = mido.open_output("loopMIDI Port 4")
 
 
 class Note:
